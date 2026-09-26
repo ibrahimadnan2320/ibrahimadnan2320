@@ -14,17 +14,24 @@
 
 <br/><br/>
 
-## 🏆 GitHub Trophy Case
-
-<img src="https://github-profile-trophy.vercel.app/?username=ibrahimadnan2320&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
-
-<br/>
-
 ## 🧰 Tech Arsenal
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cpp,ruby,html,css,js,tailwind,git,github&perline=9" />
-</a>
+<table>
+  <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=c" width="48" /><br>C</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=cpp" width="48" /><br>C++</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=ruby" width="48" /><br>Ruby</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=html" width="48" /><br>HTML5</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=css" width="48" /><br>CSS3</td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=js" width="48" /><br>JavaScript</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=tailwind" width="48" /><br>Tailwind</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=git" width="48" /><br>Git</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=github" width="48" /><br>GitHub</td>
+    <td align="center" width="90"></td>
+  </tr>
+</table>
 
 **🤖 AI & Creative Ops:** Prompt Engineering | ChatGPT | Gemini | NotebookLM | YouTube Automation | Video Editing | Photography
 
