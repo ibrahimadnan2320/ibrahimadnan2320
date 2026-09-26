@@ -29,7 +29,7 @@
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=tailwind" width="48" /><br>Tailwind</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=git" width="48" /><br>Git</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=github" width="48" /><br>GitHub</td>
-    <td align="center" width="90"></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/youtube/FF0000" width="48" /><br>YouTube</td>
   </tr>
 </table>
 
@@ -62,7 +62,6 @@
 ## 📈 Live Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ibrahimadnan2320&show_icons=true&bg_color=0A0F24&title_color=4169E1&icon_color=60A5FA&text_color=CBD5E1&hide_border=true" height="195" alt="Ibrahim's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimadnan2320&background=0A0F24&ring=4169E1&fire=60A5FA&currStreakLabel=60A5FA&hide_border=true&dates=CBD5E1&sideLabels=CBD5E1&sideNums=f8fafc&currStreakNum=f8fafc" height="195" alt="Ibrahim's Contribution Streak" />
 </div>
 
