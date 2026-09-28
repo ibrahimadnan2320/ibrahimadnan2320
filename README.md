@@ -62,7 +62,7 @@
 ## 📈 Live Metrics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimadnan2320&background=0A0F24&ring=4169E1&fire=60A5FA&currStreakLabel=60A5FA&hide_border=true&dates=CBD5E1&sideLabels=CBD5E1&sideNums=f8fafc&currStreakNum=f8fafc" height="195" alt="Ibrahim's Contribution Streak" />
+  <img src="./profile/streak.svg" height="195" alt="Ibrahim's Contribution Streak" />
 </div>
 
 <br/>
