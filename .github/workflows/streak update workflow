@@ -1,0 +1,33 @@
+name: Update streak stats
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-streak:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Create output folder
+        run: mkdir -p profile
+
+      - name: Generate streak card
+        uses: DenverCoder1/github-readme-streak-stats@v1
+        with:
+          options: user=${{ github.repository_owner }}&background=0A0F24&ring=4169E1&fire=60A5FA&currStreakLabel=60A5FA&hide_border=true&dates=CBD5E1&sideLabels=CBD5E1&sideNums=f8fafc&currStreakNum=f8fafc&disable_animations=true
+          path: profile/streak.svg
+
+      - name: Commit updated card
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/streak.svg
+          git diff --cached --quiet && exit 0
+          git commit -m "Update contribution streak card"
+          git push
